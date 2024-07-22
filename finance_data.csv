@@ -1,0 +1,33 @@
+date,amount,category,description
+01-07-2024,100,Income,salary
+02-07-2024,50.0,Expense,Groceries
+03-07-2024,75.0,Income,Freelance work
+04-07-2024,20.0,Expense,Transportation
+05-07-2024,30.0,Expense,Coffee
+06-07-2024,200.0,Income,Project completion
+07-07-2024,40.0,Expense,Utilities
+08-07-2024,60.0,Expense,Entertainment
+09-07-2024,90.0,Income,Bonus
+10-07-2024,25.0,Expense,Books
+11-07-2024,80.0,Expense,Dining out
+12-07-2024,150.0,Income,Part-time job
+13-07-2024,35.0,Expense,Subscriptions
+14-07-2024,60.0,Expense,Clothing
+15-07-2024,110.0,Income,Gift
+16-07-2024,45.0,Expense,Fitness
+17-07-2024,70.0,Expense,Household items
+18-07-2024,250.0,Income,Consulting
+19-07-2024,95.0,Expense,Medical
+20-07-2024,55.0,Expense,Transport
+21-07-2024,125.0,Income,Side gig
+22-07-2024,40.0,Expense,Movies
+23-07-2024,130.0,Income,Overtime
+24-07-2024,30.0,Expense,Coffee
+25-07-2024,100.0,Income,Rental income
+26-07-2024,65.0,Expense,Gym membership
+27-07-2024,90.0,Expense,Restaurant
+28-07-2024,70.0,Expense,Groceries
+29-07-2024,150.0,Income,Freelance work
+30-07-2024,35.0,Expense,Utilities
+31-07-2024,200.0,Income,Salary
+
